@@ -6,7 +6,7 @@ Welcome to the repository for COL 202 course resources used during the first sem
 
 1. [Guidelines for writing a mathematical proof](Guidelines for writing a mathematical proof.pdf)
 2. [Tutorials](Tutorials)
-3. [Tutorial Solutions]
+3. Tutorial Solutions
 4. [Previous Year Question Papers](PYQ)
 5. [Major](Major.pdf)
 6. [Minor](Minor.pdf)
