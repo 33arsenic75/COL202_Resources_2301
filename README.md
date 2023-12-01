@@ -45,11 +45,10 @@ Quiz-1 Graded Answer Sheet
 
 Quiz-2 Graded Answer Sheet
 
-##Credits
 
 # Credits
 
-Special thanks to [github.com/koderAP](https://github.com/koderAP) for their contributions to this project.
+Special thanks to [github.com/koderAP](https://github.com/koderAP),[github.com/Jimmy4511](https://github.com/Jimmy4511) and [github.com/jahnabiroy](https://github.com/jahnabiroy)  for their contributions to this project.
 
 
 ## Contributing
