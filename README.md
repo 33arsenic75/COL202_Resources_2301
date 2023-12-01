@@ -45,6 +45,13 @@ Quiz-1 Graded Answer Sheet
 
 Quiz-2 Graded Answer Sheet
 
+##Credits
+
+# Credits
+
+Special thanks to [github.com/koderAP](https://github.com/koderAP) for their contributions to this project.
+
+
 ## Contributing
 
 Contributions to this repository are welcome! If you have additional resources, lecture notes, or any other materials that could benefit fellow students, feel free to submit a pull request.
