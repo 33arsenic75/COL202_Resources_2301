@@ -4,14 +4,14 @@ Welcome to the repository for COL 202 course resources used during the first sem
 
 ## Table of Contents
 
-1. [Guidelines for writing a mathematical proof](#guidelines-for-writing-a-mathematical-proof)
-2. [Tutorials](#tutorials)
-3. [Tutorial Solutions](#tutorial-solutions)
-4. [Previous Year Question Papers](#previous-year-question-papers)
-5. [Major](#major)
-6. [Minor](#minor)
-7. [Quiz 1](#quiz-1)
-8. [Quiz 2](#quiz-2)
+1. [Guidelines for writing a mathematical proof](Guidelines for writing a mathematical proof.pdf)
+2. [Tutorials](Tutorials)
+3. [Tutorial Solutions]
+4. [Previous Year Question Papers](PYQ)
+5. [Major](Major.pdf)
+6. [Minor](Minor.pdf)
+7. [Quiz 1](Quiz1.pdf)
+8. [Quiz 2](Quiz2.pdf)
 
 ## Guidelines for writing a mathematical proof
 
@@ -23,7 +23,7 @@ Contains all the tutorials here in [Tutorials](./tutorials/) directory.
 
 ## Tutorial Solutions
 
-Contains most of the tutorial solutions.
+Contains most of the tutorial solutions sorted groupwise.
 
 ## Previous Year Question Papers
 
