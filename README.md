@@ -48,7 +48,7 @@ Quiz-2 Graded Answer Sheet
 
 # Credits
 
-Special thanks to [github.com/koderAP](https://github.com/koderAP),[github.com/Jimmy4511](https://github.com/Jimmy4511) and [github.com/jahnabiroy](https://github.com/jahnabiroy)  for their contributions to this project.
+Special thanks to [github.com/koderAP](https://github.com/koderAP),[github.com/Jimmy4511](https://github.com/Jimmy4511),[github.com/its-me-adi003](https://github.com/its-me-adi003) and [github.com/jahnabiroy](https://github.com/jahnabiroy)  for their contributions to this project.
 
 
 ## Contributing
